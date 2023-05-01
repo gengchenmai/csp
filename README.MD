@@ -10,9 +10,14 @@ Code for recreating the results in [our ICML 2023 paper](https://openreview.net/
 
 Please visit [my Homepage](https://gengchenmai.github.io/csp-website/) for more information.
 
-## Motivation
+## Our Model Overview
 <p align="center">
   <img src="image/model.png" alt="model" width="1000" />
+</p>
+
+## Three Constrastive Spatial Pre-Training Objective
+<p align="center">
+  <img src="image/csp.png" alt="model" width="1000" />
 </p>
 
 
