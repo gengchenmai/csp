@@ -1,5 +1,5 @@
 # CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations
-Code for recreating the results in [our ICML 2023 paper](https://openreview.net/forum?id=rJljdh4KDH).
+Code for recreating the results in [our ICML 2023 paper](https://gengchenmai.github.io/csp-website/).
 
 ## Related Link
 1. [Paper](https://gengchenmai.github.io/papers/2023-ICML-CSP.pdf)
