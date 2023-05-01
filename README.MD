@@ -2,13 +2,14 @@
 Code for recreating the results in [our ICML 2023 paper](https://openreview.net/forum?id=rJljdh4KDH).
 
 ## Related Link
-1. [OpenReview Paper](XXX)
-2. [Arxiv Paper](XXX)
-3. [ResearchGate paper](XXX)
-4. [CSP Website](https://gengchenmai.github.io/csp-website/)
+1. [Paper](https://gengchenmai.github.io/papers/2023-ICML-CSP.pdf)
+2. [OpenReview Paper](https://openreview.net/forum?id=R3WrLjtzG8)
+3. [Arxiv Paper](XXX)
+4. [ResearchGate paper](https://www.researchgate.net/publication/370441087_CSP_Self-Supervised_Contrastive_Spatial_Pre-Training_for_Geospatial-Visual_Representations)
+5. [CSP Website](https://gengchenmai.github.io/csp-website/)
 
 
-Please visit [my Homepage](https://gengchenmai.github.io/csp-website/) for more information.
+Please visit [CSP Website](https://gengchenmai.github.io/csp-website/) for more information.
 
 ## Our Model Overview
 <p align="center">
