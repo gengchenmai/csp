@@ -11,7 +11,7 @@ Please visit [my Homepage](https://gengchenmai.github.io/) for more information.
 
 ## Motivation
 <p align="center">
-  <img src="image/model.png" alt="intro" width="1000" />
+  <img src="image/model.png" alt="model" width="1000" />
 </p>
 
 
