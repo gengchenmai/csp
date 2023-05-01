@@ -40,12 +40,12 @@ The main code are located in `main` folder
 
 1) Pre-trained models are available to download from [here](https://www.dropbox.com/s/qxr644rj1qxekn2/model_dir.zip?dl=0).
 2) `model_dir/model_inat_2018/` contains:
-  a. `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_UNSUPER-contsoftmax_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the pre-trained grid location encoder on all unlabeled iNat2018 training dataset.
-  b. `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_contsoftmax_ratio0.050_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the fine-tuned grid location encoder on 5% iNat2018 training dataset.
+  i. `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_UNSUPER-contsoftmax_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the pre-trained grid location encoder on all unlabeled iNat2018 training dataset.
+  ii. `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_contsoftmax_ratio0.050_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the fine-tuned grid location encoder on 5% iNat2018 training dataset.
 
 3) `model_dir/model_fmow/` contains:
-  a. `model_fmow_gridcell_0.0010_32_0.1000000_1_512_gelu_UNSUPER-contsoftmax_0.000050_1.000_1_0.100_TMP1.0000_1.0000_1.0000.pth.tar` is the pre-trained grid location encoder on all unlabeled fMoW training dataset.
-  b. `model_fmow_gridcell_0.0010_32_0.1000000_1_512_gelu_contsoftmax_ratio0.050_0.000050_1.000_1_0.100_TMP1.0000_1.0000_1.0000.pth.tar` is the fine-tuned grid location encoder on 5% fMoW training dataset.
+  i. `model_fmow_gridcell_0.0010_32_0.1000000_1_512_gelu_UNSUPER-contsoftmax_0.000050_1.000_1_0.100_TMP1.0000_1.0000_1.0000.pth.tar` is the pre-trained grid location encoder on all unlabeled fMoW training dataset.
+  ii. `model_fmow_gridcell_0.0010_32_0.1000000_1_512_gelu_contsoftmax_ratio0.050_0.000050_1.000_1_0.100_TMP1.0000_1.0000_1.0000.pth.tar` is the fine-tuned grid location encoder on 5% fMoW training dataset.
 
 
 
