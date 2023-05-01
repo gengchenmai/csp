@@ -5,9 +5,10 @@ Code for recreating the results in [our ICML 2023 paper](https://openreview.net/
 1. [OpenReview Paper](XXX)
 2. [Arxiv Paper](XXX)
 3. [ResearchGate paper](XXX)
+4. [CSP Website](https://gengchenmai.github.io/csp-website/)
 
 
-Please visit [my Homepage](https://gengchenmai.github.io/) for more information.
+Please visit [my Homepage](https://gengchenmai.github.io/csp-website/) for more information.
 
 ## Motivation
 <p align="center">
@@ -29,7 +30,7 @@ The main code are located in `main` folder
 2) `run-inat_2018-contsoftmax.sh` do CSP-MC-BLD self-supervised pre-training and supervised trains our location encoder on fMoW datasets.
 
 ### Data
-1) Download the required datasets and metadata from our project [website](http://) and put them in the `../geo_prior_data_csp/` directory. This contains features and predictions extracted from trained image classifiers along with the location metadata.
+1) Download the required datasets and metadata from our project [website](https://gengchenmai.github.io/csp-website/) and put them in the `../geo_prior_data_csp/` directory. This contains features and predictions extracted from trained image classifiers along with the location metadata.
 2) Update the paths in `paths.py` so they point to the correct locations on your system.  
 3) Make sure you have the package versions specified in `requirements.txt`. Model training and evaluation was performed with Python 3.7.   
 
@@ -38,7 +39,7 @@ The main code are located in `main` folder
 
 ### Pre-trained Model
 
-1) Pre-trained models are available to download from [here](https://www.dropbox.com/s/qxr644rj1qxekn2/model_dir.zip?dl=0).
+1) Pre-trained models are available to download from [here](https://gengchenmai.github.io/csp-website/).
 2) `model_dir/model_inat_2018/` contains:
   - `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_UNSUPER-contsoftmax_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the pre-trained grid location encoder on all unlabeled iNat2018 training dataset.
   - `model_inat_2018_gridcell_0.0010_32_0.1000000_1_512_leakyrelu_contsoftmax_ratio0.050_0.000500_1.000_1_1.000_TMP20.0000_1.0000_1.0000.pth.tar` is the fine-tuned grid location encoder on 5% iNat2018 training dataset.
@@ -55,7 +56,7 @@ The main code are located in `main` folder
 
 
 ### Reference
-If you find our work useful in your research please consider citing [our ICML 2023 paper](https://gengchenmai.github.io/).  
+If you find our work useful in your research please consider citing [our ICML 2023 paper](https://gengchenmai.github.io/csp-website/).  
 ```
 @inproceedings{mai2023csp,
   title={CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations},
