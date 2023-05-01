@@ -15,7 +15,7 @@ Please visit [my Homepage](https://gengchenmai.github.io/csp-website/) for more 
   <img src="image/model.png" alt="model" width="1000" />
 </p>
 
-## Three Constrastive Spatial Pre-Training Objective
+## Three Constrastive Spatial Pre-Training Objectives
 <p align="center">
   <img src="image/csp.png" alt="model" width="1000" />
 </p>
