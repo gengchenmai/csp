@@ -4,7 +4,7 @@ Code for recreating the results in [our ICML 2023 paper](https://gengchenmai.git
 ## Related Link
 1. [Paper](https://gengchenmai.github.io/papers/2023-ICML-CSP.pdf)
 2. [OpenReview Paper](https://openreview.net/forum?id=R3WrLjtzG8)
-3. [Arxiv Paper](XXX)
+3. [Arxiv Paper](http://arxiv.org/abs/2305.01118)
 4. [ResearchGate paper](https://www.researchgate.net/publication/370441087_CSP_Self-Supervised_Contrastive_Spatial_Pre-Training_for_Geospatial-Visual_Representations)
 5. [CSP Website](https://gengchenmai.github.io/csp-website/)
 
