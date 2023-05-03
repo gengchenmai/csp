@@ -33,7 +33,7 @@ Please visit [CSP Website](https://gengchenmai.github.io/csp-website/) for more 
 The main code are located in `main` folder
 
 1) `run-fmow-contsoftmax.sh` do CSP-MC-BLD self-supervised pre-training and supervised trains our location encoder on fMoW datasets.  
-2) `run-inat_2018-contsoftmax.sh` do CSP-MC-BLD self-supervised pre-training and supervised trains our location encoder on fMoW datasets.
+2) `run-inat_2018-contsoftmax.sh` do CSP-MC-BLD self-supervised pre-training and supervised trains our location encoder on iNat018 datasets.
 
 ### Data
 1) Download the required datasets and metadata from our project [website](https://gengchenmai.github.io/csp-website/) and put them in the `../geo_prior_data_csp/` directory. This contains features and predictions extracted from trained image classifiers along with the location metadata.
